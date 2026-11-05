@@ -17,7 +17,7 @@
 ## 🛠 Nguồn xuất bản & SHA Commit
 - **Nhánh triển khai (Branch):** `main` 
 - **Thư mục nguồn (Source Folder):** `/` (Root)
-- **Mã SHA bản nộp cuối cùng:** `[Điền 7 ký tự SHA commit mã nguồn cuối cùng, VD: a1b2c3d]`
+- **Mã SHA bản nộp cuối cùng:** 
 
 ---
 
