@@ -19,7 +19,7 @@ https://dangvanquyet-8608.github.io/K20_ThietKeWeb/?utm_source=chatgpt.com
 - css/: Chứa các tệp giao diện CSS
 - assets/: Chứa tài nguyên hình ảnh
 - docs/: Chứa tài liệu bàn giao
-## Dã kiểm tra
+## Đã kiểm tra
 Xem docs/evidence-index.md
 ## Hạn chế/chưa kiểm tra
 - Chưa kiểm tra trên điện thoại
