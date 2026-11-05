@@ -1,32 +1,27 @@
-# Portfolio v7 - Đặng Văn Quyết
-
-> **Học phần:** Thiết kế Web và triển khai hệ thống phần mềm (FIT4014)  
-> **Bài đánh giá:** A2.2 - Triển khai và bàn giao Portfolio v7 trên GitHub Pages  
-
----
-
-## 📌 Thông tin cá nhân
-- **Họ và tên:** Đặng Văn Quyết
-- **Mã sinh viên:** 2071020162
-- **Lớp:** CNTT 20-04
-- **Repository GitHub:** https://github.com/dangvanquyet-8608/K20_ThietKeWeb
-- **URL GitHub Pages:** https://dangvanquyet-8608.github.io/K20_ThietKeWeb/
-
----
-
-## 🛠 Nguồn xuất bản & SHA Commit
-- **Nhánh triển khai (Branch):** `main` 
-- **Thư mục nguồn (Source Folder):** `/` (Root)
-- **Mã SHA bản nộp cuối cùng:** 
-
----
-
-## 📁 Cấu trúc thư mục
-```text
-.
-├── css/                  # Chứa các tệp định dạng giao diện
-├── assets/               # Chứa hình ảnh và tài nguyên dự án
-├── index.html            # Trang chủ Portfolio
-├── README.md             # Hướng dẫn & tổng quan dự án (Tệp này)
-├── AI_LOG.md             # Nhật ký khai báo quá trình dùng AI
-└── RELEASE_NOTES.md      # Ghi chú phiên bản bàn giao v7
+# Portfolio cá nhân
+## Sản phẩm này là gi?
+Đây là website Portfolio cá nhân dùng để giới thiệu bản thân, quá trình học tập và các sản phẩm thực hành của một sinh viên Công nghệ thông tin  
+## Demo
+https://dangvanquyet-8608.github.io/K20_ThietKeWeb/?utm_source=chatgpt.com
+## Tính năng
+- Giới thiệu thông tin cá nhân
+- Hiển thị các dự án và sản phẩm học tập
+- Giới thiệu lộ trình học tập
+- Cung cấp thông tin liên hệ
+## Cách mở
+- Mở trình duyệt Google Chrome
+- Truy cập đường dẫn Demo ở phía trên
+- Chọn mục Dự án trên thanh menu để xem các sản phẩm
+- Chọn mục Lộ trình học tập để xem quá trình học tập
+## Cấu trúc thư mục
+- index.html: Trang chính của website
+- ket-qua.html: Trang kết quả
+- css/: Chứa các tệp giao diện CSS
+- assets/: Chứa tài nguyên hình ảnh
+- docs/: Chứa tài liệu bàn giao
+## Dã kiểm tra
+Xem docs/evidence-index.md
+## Hạn chế/chưa kiểm tra
+- Chưa kiểm tra trên điện thoại
+## Khai báo AI
+xem docs/AI_LOG.md
